@@ -1,6 +1,6 @@
-##Honduras
-## population
 
+## population
+9112867
 
 ## capital
 
@@ -9,6 +9,6 @@
 
 
 ## interesting trivia
-
-
+Became independent in 1821
+Economy is mainly agricultural
 
